@@ -197,7 +197,7 @@ export default function VolumeNew() {
       startDate: useField(todaysDate),
       endDate: useField(null),
       configuration: {
-        quantity: useField("0"),
+        quantity: useField("1"),
         percentage: useField("0"),
       },
     },
